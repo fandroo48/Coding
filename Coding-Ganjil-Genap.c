@@ -4,10 +4,10 @@
 int main()
 {
   int i,a;
-  printf("masukan bilangan : ");
+  printf("Masukan Angka : ");
     scanf("%d",&a);
 
-  printf("\nbilangan ganjil-genap dari 0 hingga %d adalah :\n",a);
+  printf("\n Bilangan ganjil-genap dari 0 hingga %d adalah :\n",a);
 
     printf("Genap\tGanjil\n");
 
