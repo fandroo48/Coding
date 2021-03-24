@@ -5,7 +5,7 @@ void main()
 {
     int num1, num2, i, j, flag, temp, count = 0;
 
-    printf("Masukan bilangan prima antara : \n");
+    printf("Tambahkan bilangan prima antara : \n");
     scanf("%d %d", &num1, &num2);
     if (num2 < 2)
     {
@@ -35,6 +35,6 @@ void main()
             count++;
         }
     }
-    printf("Bilangan Prima Antara %d & %d = %d\n", temp, num2, count);
+    printf("Bilangan Prima Antara %d & %d adalah %d\n", temp, num2, count);
 }
 
