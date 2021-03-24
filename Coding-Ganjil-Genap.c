@@ -16,5 +16,6 @@ int main()
     i++;
   if(i<=a)
       printf("%d\n",i);
+    
   }
 }
