@@ -36,5 +36,7 @@ void main()
         }
     }
     printf("Bilangan Prima Antara %d & %d adalah %d\n", temp, num2, count);
+    
+    printf("Untuk Percobaan github");
 }
 
